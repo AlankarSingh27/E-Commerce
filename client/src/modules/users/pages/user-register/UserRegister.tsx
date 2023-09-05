@@ -54,7 +54,7 @@ const UserRegister: React.FC = () => {
 
     return (
         <>
-            {loading && <SpinnerUI/>}
+            {/* {loading && <SpinnerUI/>} */}
             <MainNavBar/>
             <LayoutHeading heading={'Register Here'} icon={'bi-person-add'}/>
             <Container>
